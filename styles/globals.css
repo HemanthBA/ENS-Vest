@@ -1,0 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&family=Manrope&family=Poppins&family=Space+Mono&family=IBM+Plex+Mono&family=Ubuntu+Mono&family=Source+Code+Pro:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+  
